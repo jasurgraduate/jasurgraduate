@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm an electronics engineer with a passion for cod
 </p>
 
 ## 📈 GitHub Stats
-
+404 Not Found (yet 😹)
 <!-- ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
  -->
