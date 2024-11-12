@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Jasur!
 
-Welcome to my GitHub profile! I'm an electronics engineer with a passion for coding.
+I'm an electronics engineer with a passion for coding.
 
 ---
 
