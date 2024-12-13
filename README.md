@@ -20,7 +20,7 @@ I'm an electronics engineer with a passion for coding.
   <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat" alt="Pandas" />
 
 </p>
+
 ---
-<p>
-Thanks for stopping by! 😊
-</p>
+
+# Thanks for stopping by! 😊
