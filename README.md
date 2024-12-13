@@ -19,7 +19,4 @@ I'm an electronics engineer with a passion for coding.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
  -->
 ---
-## 📫 Connect with Me
-- [Personal Website/jasurlive.uz](https://jasurlive.uz)
----
 Thanks for stopping by! 😊
