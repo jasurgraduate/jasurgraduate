@@ -24,6 +24,6 @@ I'm an electronics engineer with a passion for coding.
 ---
 https://jasurgraduate.github.io/img/cat2.png
 
-# Thanks for stopping by!  <img src="https://jasurgraduate.github.io/img/cat2.png" alt="Octocat" width="100" />
+# Thanks for stopping by!  <img src="https://jasurgraduate.github.io/img/cat2.png" alt="Octocat" width="50" />
 
 
