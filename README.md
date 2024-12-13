@@ -23,5 +23,5 @@ I'm an electronics engineer with a passion for coding.
 
 ---
 
-# Thanks for stopping by! ![McEfeeline Octocat](https://octodex.github.com/images/mcefeeline.jpg)
+# Thanks for stopping by! ![McEfeeline Octocat](https://octodex.github.com/images/mcefeeline.png)
 
