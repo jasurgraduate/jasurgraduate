@@ -17,18 +17,10 @@ I'm an electronics engineer with a passion for coding.
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat" alt="Git" />
   <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat" alt="GitHub" />
   <img src="https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat" alt="Jupyter" />
-<img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat" alt="Pandas" />
+  <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat" alt="Pandas" />
 
-  
-  
-  <!-- Add more badges as needed -->
 </p>
-<!--
-## 📈 GitHub Stats
-404 Not Found (yet 😹)
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
- -->
 ---
-
+<p>
 Thanks for stopping by! 😊
+</p>
