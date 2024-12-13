@@ -1,17 +1,7 @@
 # Hi there! 👋 I'm Jasur!
 
 I'm an electronics engineer with a passion for coding.
-
 ---
-
-## 🧑‍💻 About Me
-
-- 🎓 I’m currently studying my 2nd Masters at Woosong University.
-- 🌱 I’m currently learning Python, ReactJS, ReactNative.
-- 🔭 I’m working on different ReactJS projects.
-
----
-
 ## 🛠️ Languages and Tools
 
 <p>
