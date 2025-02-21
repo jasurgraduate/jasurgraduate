@@ -19,6 +19,14 @@ I'm an electronics engineer with a passion for coding.
   <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat" alt="GitHub" />
   <img src="https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat" alt="Jupyter" />
   <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat" alt="Pandas" />
+  <img src="https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat" alt="Vercel" />
+  <img src="https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=flat" alt="Netlify" />
+  <img src="https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat" alt="Vite" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-React%20TS-61DAFB?logo=react&logoColor=black&style=flat" alt="React TypeScript" />
+  <img src="https://img.shields.io/badge/-More%20coming...-E0E0E0?logo=hourglass&logoColor=black&style=flat" alt="More coming..." />
+
+
 
 </p>
 
