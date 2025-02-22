@@ -1,6 +1,6 @@
 # Hola! 👋 Me llamo Jasur!
 
-I'm an electronics engineer with a passion for coding.
+<img src="https://jasurgraduate.github.io/img/cat2.png" alt="Octocat" height="30" /> I'm an electronics engineer with a passion for coding.
 ---
 ## 🛠️ Languages and Tools
 
