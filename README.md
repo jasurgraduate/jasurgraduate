@@ -1,4 +1,4 @@
-# Hola! 👋 Me llamo Jasur!
+# <img src="https://jasurgraduate.github.io/img/cat.png" alt="Octocat" height="30" /> Hola! 👋 Me llamo Jasur!
 
 <img src="https://jasurgraduate.github.io/img/cat2.png" alt="Octocat" height="30" /> I'm an electronics engineer with a passion for coding.
 ---
@@ -32,6 +32,6 @@
 
 ---
 
-# <img src="https://jasurgraduate.github.io/img/cat2.png" alt="Octocat" height="30" /> Thanks for stopping by!  <img src="https://jasurgraduate.github.io/img/cat.png" alt="Octocat" height="30" />
+<img src="https://jasurgraduate.github.io/img/cat2.png" alt="Octocat" height="30" /> Thanks for stopping by!  <img src="https://jasurgraduate.github.io/img/cat.png" alt="Octocat" height="30" />
 
 
