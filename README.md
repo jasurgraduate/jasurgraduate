@@ -32,6 +32,6 @@
 
 ---
 
-<img src="https://jasurgraduate.github.io/img/cat2.png" alt="Octocat" height="30" /> Thanks for stopping by!  <img src="https://jasurgraduate.github.io/img/cat.png" alt="Octocat" height="30" />
+Thanks for stopping by! ツ🖤
 
 
