@@ -32,6 +32,5 @@
 
 ---
 
-<center>Thanks for stopping by! ツ🖤</center>
-
+<p style="text-align: center;">Thanks for stopping by! ツ🖤</p>
 
