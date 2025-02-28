@@ -1,8 +1,10 @@
-# <img src="https://jasurgraduate.github.io/img/cat.png" alt="Octocat" height="30" /> Hola! 👋 Me llamo Jasur!
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
 
-<img src="https://jasurgraduate.github.io/img/cat2.png" alt="Octocat" height="30" /> I'm an electronics engineer with a passion for coding.
----
-## 🛠️ Languages and Tools
+  <p style="font-size: 24px; font-weight: bold; color: #FFE135;">👋 Hola! Me llamo Jasur!</p>
+
+  <p style="font-size: 18px; color: #F4A261;">I'm an electronics engineer with a passion for coding & tech! ⚡</p>
+--
+<p style="font-size: 18px; color: #F4A261;">🛠️ Languages and Tools</p>
 
 <p>
   
@@ -36,4 +38,5 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7A41D&center=true&vCenter=true&width=450&lines=Visit+My+Website!;jasurlive.uz+🚀" alt="jasurlive.uz">
   </a>
 </p>
+</div>
 
