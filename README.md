@@ -31,6 +31,9 @@
 </p>
 
 ---
-
-<p style="text-align: center;">Thanks for stopping by! ツ🖤</p>
+<p align="center"> WEB:
+  <a href="https://jasurlive.uz" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7A41D&center=true&vCenter=true&width=450&lines=Visit+My+Website!;JasurLive.uz+🚀" alt="JasurLive.uz">
+  </a>
+</p>
 
