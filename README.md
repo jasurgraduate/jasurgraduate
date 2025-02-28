@@ -31,9 +31,9 @@
 </p>
 
 ---
-<p align="center"> WEB:
+<p align="center">
   <a href="https://jasurlive.uz" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7A41D&center=true&vCenter=true&width=450&lines=Visit+My+Website!;JasurLive.uz+🚀" alt="JasurLive.uz">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7A41D&center=true&vCenter=true&width=450&lines=Visit+My+Website!;jasurlive.uz+🚀" alt="jasurlive.uz">
   </a>
 </p>
 
