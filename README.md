@@ -34,7 +34,7 @@
 
   <p align="center">
     <a href="https://jasurlive.uz" target="_blank">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=82f7ff&center=true&vCenter=true&width=450&lines=visit+my+website!;jasurlive.uz+🆕" alt="jasurlive.uz">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=82f7ff&center=true&vCenter=true&width=450&lines=visit+my+website+🔼;jasurlive.uz+🆕" alt="jasurlive.uz">
     </a>
   </p>
 
