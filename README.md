@@ -38,8 +38,7 @@
     </a>
   </p>
 
- <img src="https://github-readme-stats.vercel.app/api?username=jasurgraduate&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&locale=en&hide_border=true" height="150" alt="stats graph"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jasurgraduate&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=jasurgraduate&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&locale=en&hide_border=true" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jasurgraduate&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=true" height="150" alt="languages graph"/>
 
 </div>
